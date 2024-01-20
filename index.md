@@ -1,4 +1,33 @@
-## Publications
+# Education Overview
+
+## University of Tehran
+**Tehran, Iran**
+
+### Master of Engineering - Software Engineering
+**2021 - 2023 (Expected)**
+
+- **Dissertation**: Safety Evaluation of Embedded Systems Using Formal Methods
+- **Advisors**: Dr. Mehdi Kargahi, Dr. Fatemeh Ghassemi
+- **GPA**: 19.64/20
+- **Honors**: Achieved First Rank among all Master’s Students in Software Engineering
+
+### Bachelor of Science - Computer Science
+**2016 - 2020**
+
+- **Final Project**: The Role of Autoencoders in Deep Learning: Theory and Applications
+- **Advisors**: Dr. Hedieh Sajedi
+- **GPA**: Last Two Years: 17.4/20, Overall: 16.4/20
+- **Honors**: Graduated 4th Rank in Bachelor of Computer Science.
+
+## National Organization for development of Exceptional Talents (Sampad)
+**Hamedan, Iran**
+**2012 - 2016**
+
+- **Diploma in Mathematics and Physics**
+- **GPA**: 19.7/20
+
+
+## Education
 
 
 ## Experience
