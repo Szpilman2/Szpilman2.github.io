@@ -19,11 +19,39 @@
 
 - **Advanced Software Testing**  
   _Teaching Assistant_<br>
-  _Dr. Ehsan Khamespanah_ <br>
+  _Instructor: Dr. Ehsan Khamespanah_ <br>
   _School of ECE, University of Tehran_ <br>
   _Spring 2024_
- 
 
+ - **Process Algebra and Automata Theory**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Fatemeh Ghassemi_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Spring 2024_
+
+- **Performance Evaluation of Computer Systems**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Ahmad Khonsari_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Spring 2023_
+
+- **Statistical Inference**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Behnam Bahrak_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2022_
+
+- **Computer Architecture**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Bagher Babaali_ <br>
+  _School of Computer Science, University of Tehran_ <br>
+  _Spring 2019_
+
+- **Digital System Design**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Bagher Babaali_ <br>
+  _School of Computer Science, University of Tehran_ <br>
+  _Spring 2019_
 
 
 ## Skills Summary
