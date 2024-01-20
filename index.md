@@ -1,5 +1,25 @@
 # Education Overview
 
+<table>
+  <tr>
+    <td><img src="https://github.com/Szpilman2/Szpilman2.github.io/blob/main/UT.png" alt="University of Tehran Logo" width="100"/></td>
+    <td>
+      <h2>University of Tehran</h2>
+      <p><strong>Tehran, Iran</strong></p>
+    </td>
+  </tr>
+</table>
+
+### Master of Engineering - Software Engineering
+**2021 - 2023 (Expected)**
+
+- **Dissertation**: Safety Evaluation of Embedded Systems Using Formal Methods
+- **Advisors**: Dr. Mehdi Kargahi, Dr. Fatemeh Ghassemi
+- **GPA**: 19.64/20
+- **Honors**: Achieved First Rank among all Master’s Students in Software Engineering
+
+test
+
 ## University of Tehran
 **Tehran, Iran**
 
