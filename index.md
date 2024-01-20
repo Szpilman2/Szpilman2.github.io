@@ -1,5 +1,3 @@
-# Education Overview
-
 ## Education
 
 - **University of Tehran**  
