@@ -1,22 +1,30 @@
 # Education Overview
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Szpilman2/Szpilman2.github.io/blob/main/UT.png" alt="University of Tehran Logo" width="100"/></td>
-    <td>
-      <h2>University of Tehran</h2>
-      <p><strong>Tehran, Iran</strong></p>
-    </td>
-  </tr>
-</table>
+# Education
 
-### Master of Engineering - Software Engineering
-**2021 - 2023 (Expected)**
+**Massachusetts Institute of Technology**  
+_PhD in Computer Science - CSAIL Parallel & Distributed Operating Systems_  
+2014 - 2020
 
-- **Dissertation**: Safety Evaluation of Embedded Systems Using Formal Methods
-- **Advisors**: Dr. Mehdi Kargahi, Dr. Fatemeh Ghassemi
-- **GPA**: 19.64/20
-- **Honors**: Achieved First Rank among all Master’s Students in Software Engineering
+**University College London**  
+_MSc in Networked Computer Systems_  
+2012 - 2013  
+Grade: 83%
+
+**Bond University**  
+_Bachelor of IT (cont'd), Computer Science_  
+2009 - 2011  
+Grade: 93%
+
+**Universitetet i Oslo**  
+_Bachelor of IT, Computer Science_  
+2008 - 2009  
+Grade: A
+
+**Oslo Handelsgymnasium**  
+_High School_  
+2005 - 2008  
+Grade: 95%
 
 test
 
