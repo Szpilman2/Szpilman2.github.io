@@ -2,29 +2,30 @@
 
 # Education
 
-**Massachusetts Institute of Technology**  
-_PhD in Computer Science - CSAIL Parallel & Distributed Operating Systems_  
-2014 - 2020
+- **Massachusetts Institute of Technology**  
+  _Doctor of Philosophy (PhD), Computer Science_  
+  CSAIL Parallel & Distributed Operating Systems  
+  2014 - 2020
 
-**University College London**  
-_MSc in Networked Computer Systems_  
-2012 - 2013  
-Grade: 83%
+- **University College London**  
+  _Master of Science (MSc), Networked Computer Systems_  
+  2012 - 2013  
+  Grade: 83%
 
-**Bond University**  
-_Bachelor of IT (cont'd), Computer Science_  
-2009 - 2011  
-Grade: 93%
+- **Bond University**  
+  _Bachelor of IT (cont'd), Computer Science_  
+  2009 - 2011  
+  Grade: 93%
 
-**Universitetet i Oslo**  
-_Bachelor of IT, Computer Science_  
-2008 - 2009  
-Grade: A
+- **Universitetet i Oslo**  
+  _Bachelor of IT, Computer Science_  
+  2008 - 2009  
+  Grade: A
 
-**Oslo Handelsgymnasium**  
-_High School_  
-2005 - 2008  
-Grade: 95%
+- **Oslo Handelsgymnasium**  
+  _High School_  
+  2005 - 2008  
+  Grade: 95%
 
 test
 
