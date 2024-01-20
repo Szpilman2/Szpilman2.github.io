@@ -15,6 +15,15 @@
   2012 - 2016  
   Grade: (19.7 / 20)
 
+## Skills Summary
+
+- **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly, Lingua Franca
+- **Frameworks:** ANTLR, Apache Kafka, Apache Spark, Familiar with OpenGL
+- **Tools:** Docker, GIT, SQL Server, Kubernetes, UPPAAL
+- **Platforms:** Linux, Windows
+- **Typesetting:** LaTeX, Microsoft Office
+- **Other Skills:** Familiar with PLC Siemens Programming, Cisco CCNA, Comptia Network+
+- **Language:** Persian, Azerbaijani, English
 
 
 ## Experience
