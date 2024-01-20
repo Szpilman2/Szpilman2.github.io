@@ -67,6 +67,17 @@
 
 ## Experience
 
+
 ## Research Interests
-_Formal Methods in Software Engineering, Protocol verification, Model Checking, Process Algebra, Program Analysis, Software Testing, Automata Theory, Programming Languages, Distributed Systems_ <br>
-(Last update: Nov 12, 2023)
+
+- Formal Methods in Software Engineering
+- Protocol Verification
+- Model Checking
+- Process Algebra
+- Program Analysis
+- Software Testing
+- Distributed Systems
+- Automata Theory
+- Programming Languages
+
+(Last update: Jan 20, 2024)
