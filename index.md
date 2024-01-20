@@ -19,8 +19,8 @@
 
 - **Advanced Software Testing**  
   _Teaching Assistant_
-  _Dr. Ehsan Khamespanah_
-  _School of ECE, University of Tehran_  
+  Dr. Ehsan Khamespanah
+  School of ECE, University of Tehran 
   Spring 2024  
 
 
