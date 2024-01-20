@@ -1,7 +1,7 @@
 ## Education
 
 - **University of Tehran**  
-  _Master of Science (MSc), Software Engineering_  
+  _Master of Science (MSc), Computer Engineering_  
   2021 - 2024  
   Grade: (19.64 / 20)
 
