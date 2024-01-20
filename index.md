@@ -15,6 +15,16 @@
   2012 - 2016  
   Grade: (19.7 / 20)
 
+## Teaching experience
+
+- **Advanced Software Testing**  
+  _Teaching Assistant_
+  _Dr. Ehsan Khamespanah_
+  _School of ECE, University of Tehran_  
+  Spring 2024  
+
+
+
 ## Skills Summary
 
 - **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly, Lingua Franca
