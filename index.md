@@ -1,3 +1,4 @@
+
 ## Education
 
 - **University of Tehran**  
@@ -53,6 +54,19 @@
   _School of Computer Science, University of Tehran_ <br>
   _Spring 2019_
 
+## work Experience
+- **Internship**  
+  _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
+  _Bargh Pars, Tehran, Iran_ <br>
+  _In this program, I first became acquainted with electrical control panels, which was followed by practical experience working with Siemens PLCs._ <br>
+  _Summer 2018_
+
+- **Internship**  
+  _Cisco Networking and CompTIA Training_<br>
+  _Cando, Tehran, Iran_ <br>
+  _Progressed from foundational knowledge in Network+ to practical, in-depth exploration of Cisco's CCNA concepts, focusing on real-world network solutions._ <br>
+  _Fall 2017_
+
 
 ## Skills Summary
 
@@ -63,10 +77,6 @@
 - **Typesetting:** LaTeX, Microsoft Office
 - **Other Skills:** Familiar with PLC Siemens Programming, Cisco CCNA, Comptia Network+
 - **Language:** Persian, Azerbaijani, English
-
-
-## Experience
-
 
 ## Research Interests
 
