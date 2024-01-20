@@ -18,10 +18,11 @@
 ## Teaching experience
 
 - **Advanced Software Testing**  
-  _Teaching Assistant_
-  -Dr. Ehsan Khamespanah
-  -School of ECE, University of Tehran 
-  -Spring 2024  
+  _Teaching Assistant_<br>
+  Dr. Ehsan Khamespanah<br>
+  School of ECE, University of Tehran<br>
+  Spring 2024
+ 
 
 
 
