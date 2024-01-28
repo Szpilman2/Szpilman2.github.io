@@ -1,4 +1,4 @@
-
+I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised by Prof. Mehdi Kargahi[https://scholar.google.com/citations?user=oH19bK4AAAAJ&hl=en] and Prof. Fatemeh Ghassemi[https://scholar.google.com/citations?user=ymM5kfAAAAAJ&hl=en]. I am interested in Formal Verification, Software Testing, Distributed Systems and Program Analysis.
 ## Education
 
 - **University of Tehran**  
