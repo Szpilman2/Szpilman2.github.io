@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="Peyman Shabani">
-I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised by [Prof. Mehdi Kargahi](https://scholar.google.com/citations?user=oH19bK4AAAAJ&hl=en) and [Prof. Fatemeh Ghassemi](https://scholar.google.com/citations?user=ymM5kfAAAAAJ&hl=en). I am interested in Formal Verification, Software Testing, Distributed Systems and Program Analysis.
+I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised by [Dr. Mehdi Kargahi](https://scholar.google.com/citations?user=oH19bK4AAAAJ&hl=en) and [Dr. Fatemeh Ghassemi](https://scholar.google.com/citations?user=ymM5kfAAAAAJ&hl=en). I am interested in Formal Verification, Software Testing and Artificial Intelligence (AI).
 ## Education
 
 - **University of Tehran**  
@@ -18,7 +18,12 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
   Grade: (19.7 / 20)
 
 ## Teaching Experience
-
+- **Advanced Computer Networks**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Ahmad Khonsari_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2024_
+  
 - **Advanced Software Testing**  
   _Teaching Assistant_<br>
   _Instructor: Dr. Ehsan Khamespanah_ <br>
@@ -82,13 +87,8 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
 ## Research Interests
 
 - Formal Methods in Software Engineering
-- Protocol Verification
-- Model Checking
-- Process Algebra
-- Program Analysis
 - Software Testing
-- Distributed Systems
-- Automata Theory
-- Programming Languages
+- Programming Languages Design and Implementation
+- Artificial Intelligence
 
-(Last update: Jan 20, 2024)
+(Last update: Sep 26, 2024)
