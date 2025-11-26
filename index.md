@@ -17,6 +17,13 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
   2012 - 2016  
   Grade: (19.7 / 20)
 
+## work Experience
+- **Software Engineer**  
+  _Backend Developer_<br>
+  _ZharfaTech, Tehran, Iran_ <br>
+  _Engineering advanced, AI–based software products with a focus on quality, scalability, and real-world impact_ <br>
+  _spring 2025 - now_
+
 ## Teaching Experience
 - **Computer Networks**  
   _Teaching Assistant_<br>
@@ -26,7 +33,7 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
 
 - **Fundementals of Distributed Systems**  
   _Teaching Assistant_<br>
-  _Instructor: Dr. Mehdi Dolati_ <br>
+  _Instructor: Dr. Mahdi Dolati_ <br>
   _School of ECE, University of Tehran_ <br>
   _Spring 2025_
   
@@ -72,23 +79,9 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
   _School of Computer Science, University of Tehran_ <br>
   _Spring 2019_
 
-## work Experience
-- **Internship**  
-  _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
-  _Bargh Pars, Tehran, Iran_ <br>
-  _In this program, I first became acquainted with electrical control panels, which was followed by practical experience working with Siemens PLCs._ <br>
-  _Summer 2018_
-
-- **Internship**  
-  _Cisco Networking and CompTIA Training_<br>
-  _Cando, Tehran, Iran_ <br>
-  _Progressed from foundational knowledge in Network+ to practical, in-depth exploration of Cisco's CCNA concepts, focusing on real-world network solutions._ <br>
-  _Fall 2017_
-
-
 ## Skills Summary
 
-- **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly, Lingua Franca
+- **Programming Languages:** Python, Java, C++, Golang, SQL, Bash, Assembly
 - **Frameworks:** ANTLR, Apache Kafka, Apache Spark, Familiar with OpenGL
 - **Tools:** Docker, GIT, SQL Server, Kubernetes, UPPAAL
 - **Platforms:** Linux, Windows
@@ -98,9 +91,8 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
 
 ## Research Interests
 
-- Formal Methods in Software Engineering
-- Software Testing
-- Programming Languages Design and Implementation
-- Artificial Intelligence
+- Software engineering (SE)
+- AI-in-SE
+- GenAI
 
-(Last update: Sep 26, 2024)
+(Last update: Nov 26, 2025)
