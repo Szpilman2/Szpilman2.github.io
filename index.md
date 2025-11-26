@@ -18,6 +18,18 @@ I am a Software Engineering (MS.c.) Student in the CPSL lab at UT ECE, advised b
   Grade: (19.7 / 20)
 
 ## Teaching Experience
+- **Computer Networks**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Ahmad Khonsari_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2025_
+
+- **Fundementals of Distributed Systems**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Mehdi Dolati_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Spring 2025_
+  
 - **Advanced Computer Networks**  
   _Teaching Assistant_<br>
   _Instructor: Dr. Ahmad Khonsari_ <br>
